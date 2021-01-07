@@ -1,5 +1,5 @@
 {
-.appVersion = "1271";
+.appVersion = "1348";
 copyright = "Copyright 2019 Google LLC. All Rights Reserved.";
 customParameters = (
 {
@@ -222,10 +222,10 @@ value = "Noto is a trademark of Google LLC";
 },
 {
 name = versionString;
-value = "Version 1.002";
+value = "Version 1.003";
 }
 );
-date = "2019-10-20 12:15:48 +0000";
+date = "2020-10-29 19:06:14 +0000";
 designer = "Ek Type & Mukund Gokhale";
 designerURL = "http://www.ektype.in";
 familyName = "Noto Sans Masaram Gondi";
@@ -15472,6 +15472,20 @@ width = 814;
 unicode = 0025;
 },
 {
+glyphname = nbspace;
+lastChange = "2020-10-26 18:08:30 +0000";
+layers = (
+{
+layerId = "55C6F8EE-B60C-49C4-8D15-2255C9205224";
+width = 380;
+}
+);
+unicode = 00A0;
+script = "";
+category = Separator;
+subCategory = Space;
+},
+{
 glyphname = dottedCircle;
 lastChange = "2019-10-22 12:17:12 +0000";
 layers = (
@@ -16773,5 +16787,5 @@ manufacturer = "Ek Type";
 manufacturerURL = "http://www.google.com/get/noto/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
